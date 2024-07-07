@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="non-empty-collection-jvm-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="non-empty-collection-jvm-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="non-empty-collection.jvmMain" />
+    </root>
+  </artifact>
+</component>
